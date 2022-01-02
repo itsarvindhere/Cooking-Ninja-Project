@@ -1,0 +1,9 @@
+.home {
+    max-width: 1200px;
+    margin: auto;
+    padding: 0 10px 0 10px;
+}
+
+.loading.dark, .error.dark {
+    color: #e4e4e4;
+}
